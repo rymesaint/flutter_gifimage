@@ -1,11 +1,10 @@
 name: flutter_gifimage
 description: a gifimage for flutter,for solving gif cannot be controlled speed,progress
-version: 1.0.1
-author: Jpeng <peng8350@gmail.com>
+version: 1.0.3
 homepage: https://github.com/peng8350/flutter_gifimage
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
